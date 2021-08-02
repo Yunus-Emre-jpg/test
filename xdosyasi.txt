@@ -1,1 +1,4 @@
+
 bu dosyada x bilgisi vardır
+
+a+b = 0
