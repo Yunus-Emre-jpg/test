@@ -1,3 +1,0 @@
-burada y dosyası vardır 
-
-a + b = 0
